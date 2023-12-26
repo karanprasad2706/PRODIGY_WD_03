@@ -31,6 +31,6 @@ Features:
 10) Accessibility: The game is designed with accessibility in mind, allowing a wide range of users to enjoy the experience.
 
 
-Prodigy InfoTech Web Developer Internship Task : Task 03 -Tic-Tac-Toy
+Prodigy InfoTech Web Developer Internship Task : Task 03 -Tic-Tac-Toe
 Languages : HTML, CSS & JavaScript 
 Ide : Microsoft Visual Studio
