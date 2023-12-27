@@ -1,4 +1,4 @@
-"You can view the portfolio by clicking on the link below:
+"You can view the Tic Tac Toe gam by clicking on the link below:
 
 Link - "  https://karanprasad2706.github.io/PRODIGY_WD_03/ "
 
